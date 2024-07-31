@@ -54,6 +54,8 @@ document.getElementById('noBtn').addEventListener('click', function() {
             document.getElementById('sadGifContainer').style.display = 'none';
             document.getElementById('sadGifContainer2').style.display = 'none';
             document.getElementById('sadGifContainer1').style.display = 'block';
+            document.getElementById('messageContainer0').style.display = 'block';
+            document.getElementById('messageContainer0').innerHTML = 'Nacita...';
             document.getElementById('messageContainer').style.display = 'block';
             document.getElementById('messageContainer').innerHTML = 'TE QUIERO';
 

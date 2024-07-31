@@ -66,7 +66,13 @@ button {
     
     
 }
-
+#messageContainer0 {
+    font-size: 20px;
+    color: #FF5733; /* Color rojo */
+    font-family: 'YourDesiredFont', sans-serif; /* Reemplaza 'YourDesiredFont' con la fuente que desees */
+    
+    
+}
 @keyframes pulse {
     from {
         transform: scale(1);
